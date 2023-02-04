@@ -1,2 +1,2 @@
 # calculator
-![image](https://user-images.githubusercontent.com/95268596/216783136-ac6d9e6d-3921-4287-81af-3b5aa4dac770.png)
+![image](https://user-images.githubusercontent.com/95268596/216783297-04cdb83f-c63a-41d0-8ab2-f47279511b51.png)
